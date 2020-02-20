@@ -1,2 +1,10 @@
 # Python
-Just a place to place python scripts / tools / tests and such                              
+
+Just a place to place python scripts / tools / tests and such       
+
+   __________                _____      __          ____     
+  / ____/ __ \___  ____ _   / ___/_____/ /_  __  __/ / /_____
+ / / __/ /_/ / _ \/ __ `/   \__ \/ ___/ __ \/ / / / / __/_  /
+/ /_/ / _, _/  __/ /_/ /   ___/ / /__/ / / / /_/ / / /_  / /_
+\____/_/ |_|\___/\__, /   /____/\___/_/ /_/\__,_/_/\__/ /___/
+                /____/                                                        
